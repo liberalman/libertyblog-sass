@@ -1,17 +1,17 @@
 {
-  "name": "jackblog-sass",
-  "description": "jackblog css",
+  "name": "libertyblog-sass",
+  "description": "libertyblog css",
   "version": "1.0.5",
   "main": "dist/index.css",
   "authors": [
-    "Jack Hu <hutufeia2009@sina.com>"
+    "Liberalman <zscchina@163.com>"
   ],
   "license": "MIT",
   "keywords": [
-    "jackblog",
+    "libertyblog",
     "sass"
   ],
-  "homepage": "https://github.com/jackhutu/jackblog-sass",
+  "homepage": "https://github.com/liberalman/libertyblog-sass",
   "moduleType": [
     "es6",
     "globals",

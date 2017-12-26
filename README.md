@@ -1,11 +1,11 @@
-# jackblog-sass
-Jackblog css 样式, 使用sass + compass
+# libertyblog-sass
+Libertyblog css 样式, 使用sass + compass
 
 ## 安装
 ```
-$ npm i --save jackblog-sass
+$ npm i --save libertyblog-sass
 // 或者  
-$ bower install --save jackblog-sass
+$ bower install --save libertyblog-sass
 ```
 
 ## 依赖

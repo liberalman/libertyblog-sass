@@ -1,7 +1,7 @@
 {
-  "name": "jackblog-sass",
+  "name": "libertyblog-sass",
   "version": "1.0.9",
-  "description": "Jackblog css 样式, 使用sass + compass",
+  "description": "Libertyblog css 样式, 使用sass + compass",
   "main": "dist/index.css",
   "peerDependencies": {
     "bootstrap": "^3.3.5",
@@ -26,17 +26,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackhutu/jackblog-sass.git"
+    "url": "git+https://github.com/liberalman/libertyblog-sass.git"
   },
   "keywords": [
-    "jackblog",
+    "libertyblog",
     "sass",
     "compass"
   ],
-  "author": "Jack Hu",
+  "author": "Liberalman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jackhutu/jackblog-sass/issues"
+    "url": "https://github.com/liberalman/libertyblog-sass/issues"
   },
-  "homepage": "https://github.com/jackhutu/jackblog-sass#readme"
+  "homepage": "https://github.com/liberalman/libertyblog-sass#readme"
 }
